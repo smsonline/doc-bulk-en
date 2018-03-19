@@ -30,7 +30,7 @@ author = u'SMS-Online'
 version = u'2.6'
 release = version
 
-language = 'en'
+language = 'ru'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
